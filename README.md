@@ -31,8 +31,8 @@ Los usuarios deben poder:
 
 ### Links
 
-- [Solución](https://www.frontendmentor.io/solutions/responsive-order-summary-card-using-flexbox-NLhJw5fGv_)
-- [URL del sitio](https://oliver-92.github.io/Order-Summary-Card/)
+- [Solución](https://www.frontendmentor.io/solutions/product-preview-card-component-using-css-grid-jgAIcxugrx)
+- [URL del sitio](https://oliver-92.github.io/Product-preview-card-component/)
 
 ## Mi proceso
 
